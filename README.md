@@ -106,4 +106,4 @@ Special thanks for the contribution goes to
 * [steffendx](https://github.com/steffendx)
 * [DEV-Team of linqi.de](https://linqi.de)
 
-![www/assets/rvp_logo.svg](www/assets/rvp_logo.svg | width=250)
+![www/assets/rvp_logo.svg](www/assets/rvp_logo.svg)
